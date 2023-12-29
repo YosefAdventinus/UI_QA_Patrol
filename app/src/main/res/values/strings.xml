@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UI_QA_Patrol</string>
+
+    <string-array name="numbers">
+        <item>Choose Shift </item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

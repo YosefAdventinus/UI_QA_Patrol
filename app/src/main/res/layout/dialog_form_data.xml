@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".DialogFormData">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="8dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="13dp"
+            android:text="Admin Password"
+            android:paddingVertical="7dp"/>
+
+        <EditText
+            android:id="@+id/etAdminPassword"
+            android:hint="Admin Password"
+            android:textStyle="bold"
+            android:textSize="13dp"
+            android:singleLine="true"
+            android:inputType="textPassword|textWebPassword"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionDone"/>
+
+    </LinearLayout>
+
+</LinearLayout>

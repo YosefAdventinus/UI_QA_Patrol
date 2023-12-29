@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:id="@+id/llMain"
+    tools:context=".screens.SettingsActivity">
+
+    <include layout="@layout/custom_toolbar"/>
+
+    <ScrollView
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:id="@+id/llDeviceGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginVertical="1dp">
+
+                    <TextView
+                        android:layout_weight="0.6"
+                        android:textStyle="bold"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="13dp"
+                        android:text="Admin Password"/>
+
+                    <EditText
+                        android:layout_weight="1"
+                        android:id="@+id/etAdminPass"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="13.5dp"
+                        android:inputType="textWebPassword|textPassword"
+                        android:hint="Admin Password"
+                        android:textColor="@android:color/black"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llConfirmation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginVertical="1dp">
+
+                    <TextView
+                        android:layout_weight="0.6"
+                        android:textStyle="bold"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="13dp"
+                        android:text="Confirmation"/>
+
+                    <EditText
+                        android:layout_weight="1"
+                        android:id="@+id/etConfirmationPass"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="13.5dp"
+                        android:inputType="textWebPassword|textPassword"
+                        android:hint="Confirmation"
+                        android:textColor="@android:color/black"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginVertical="3dp"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.75"/>
+
+                    <LinearLayout
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btnLoginJwt"
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:layout_height="30dp"
+                            android:textColor="@android:color/white"
+                            android:background="@drawable/login_button"
+                            android:text="Login JWT"
+                            android:layout_margin="1dp"
+                            android:textStyle="bold"
+                            android:textSize="12dp"/>
+
+                        <Button
+                            android:id="@+id/btnSave"
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:layout_height="30dp"
+                            android:textColor="@android:color/white"
+                            android:background="@drawable/login_button"
+                            android:text="Save"
+                            android:layout_margin="1dp"
+                            android:textStyle="bold"
+                            android:textSize="12dp"/>
+
+                        <Button
+                            android:id="@+id/btnBack"
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:layout_height="30dp"
+                            android:textColor="@android:color/white"
+                            android:background="@drawable/cancel_button"
+                            android:text="Back"
+                            android:layout_margin="1dp"
+                            android:textStyle="bold"
+                            android:textSize="12dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

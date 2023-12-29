@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="5dp"
+    android:paddingVertical="3dp">
+
+    <TextView
+        android:id="@+id/tvJenisProduk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="jenis produk"/>
+
+    <TextView
+        android:id="@+id/tvProses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="Proses"/>
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tvTipePemeriksaan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipe Pemeriksaan"/>
+
+</LinearLayout>

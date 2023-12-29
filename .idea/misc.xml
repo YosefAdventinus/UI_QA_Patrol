@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/cancel_button.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/confirmation_button.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/custom_layout_1.xml" value="0.2075" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/custome_header.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/help_button.xml" value="0.183" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/login_button.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/prosses_button.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/shape_header.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/style_button.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/style_button_danger.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/style_button_disable.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/style_button_primer.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/table_shape.xml" value="0.203" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/drawable/table_shape_disable.xml" value="0.141" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/activity_add_process.xml" value="0.21851851851851853" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/activity_detail.xml" value="0.21784420289855072" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/chassis_help.xml" value="0.25" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/chassis_layout.xml" value="0.1" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_header.xml" value="0.536" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_layout.xml" value="0.7800829875518672" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_layout_1.xml" value="0.25" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_loading.xml" value="0.24947916666666667" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_snackbar.xml" value="0.24947916666666667" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/custom_toolbar.xml" value="0.28162291169451076" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/dashboard.xml" value="0.2" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/dialog_confirmation.xml" value="0.24864130434782608" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/dialog_form_data.xml" value="0.24864130434782608" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/dialog_form_login_jwt.xml" value="0.264" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/header.xml" value="0.24864130434782608" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/help_prodline.xml" value="0.1" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/item_produk.xml" value="0.1" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/jenis_produk.xml" value="0.19655797101449277" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/list_line.xml" value="0.21784420289855072" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/patrol_estetika.xml" value="0.264" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/patrol_pengukuran.xml" value="0.264" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/pipe_bending.xml" value="0.21784420289855072" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/process_help.xml" value="0.264" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/qc_patrol.xml" value="0.2" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/settings.xml" value="0.23508771929824562" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/size_help.xml" value="0.25" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/size_layout.xml" value="0.17708333333333334" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/tampilan_help.xml" value="0.21784420289855072" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/tampilan_list_proses.xml" value="0.22942643391521197" />
+        <entry key="..\:/Binus File/Semester 7/Skripsi mobile/Ui/app/src/main/res/layout/tampilan_proses.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
